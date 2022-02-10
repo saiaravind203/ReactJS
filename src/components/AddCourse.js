@@ -41,7 +41,7 @@ class AddCourse extends Component{
        
     }
      resetInputfield = () =>{
-        // console.log('Target Element before reset =>',this.state)
+        console.log('Target Element before reset =>',this.state)
         this.setState({
             name: '',
             duration: '',
