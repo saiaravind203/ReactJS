@@ -1,0 +1,30 @@
+.course-card{
+    width: 200px!important;
+    border: 5px solid white;
+    border-radius: 15px;
+    background-color: #34c2ba;
+    box-shadow: 4px 4px 5px #6a6868cc;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+}
+.course-card > h2{
+    font-size: 25px;
+}
+.course-card > h3{
+    font-size: 20px;
+}
+.course-card > p{
+    font-size: 20px;
+}
+.form{
+    width: 250px;
+    border: 5px solid white;
+    border-radius: 15px;
+    background-color: #34c2ba;
+    box-shadow: 4px 4px 5px #6a6868cc;
+    text-align: center;
+    margin: 5px auto;
+    padding: 10px;
+}
